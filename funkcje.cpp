@@ -51,4 +51,4 @@ totolotek (10000);
 return 0;
 }
 
-# funkcje
+
